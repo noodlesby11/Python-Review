@@ -6,8 +6,8 @@ print('Hello'+'World')
 '''
 输出函数，x始终为字符串函数
 '''
-x=input('提示文字 ')
-print(x)
+
+print(input('输入提示 '))
 #python中的关键字
 import keyword
 print(keyword.kwlist)
