@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
+      <change afterPath="$PROJECT_DIR$/exam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic Grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Grammar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program Struct.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program Struct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Basic Grammar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Program Struct.executor&quot;: &quot;Run&quot;,
     &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.miain (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.miain.executor&quot;: &quot;Run&quot;,
@@ -63,7 +67,7 @@
       <recent name="D:\PythonCode\PythonReview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Basic Grammar">
+  <component name="RunManager" selected="Python.Program Struct">
     <configuration name="Basic Grammar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
@@ -78,6 +82,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Grammar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Program Struct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonReview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program Struct.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,10 +202,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Basic Grammar" />
+        <item itemvalue="Python.Program Struct" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Basic Grammar" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -187,7 +213,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -224,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737282023891</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1738321094796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738321094796</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1738321110581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738321110581</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

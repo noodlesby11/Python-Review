@@ -6,8 +6,7 @@ print('Hello'+'World')
 '''
 输出函数，x始终为字符串函数
 '''
-
-print(input('输入提示 '))
+#print(input('输入提示 '))
 #python中的关键字
 import keyword
 print(keyword.kwlist)
@@ -37,7 +36,7 @@ print(type(string))
 print(type(flo))
 #转义字符：\n,\t,\‘,\",\\
 #一个\t代表8个字符,字符串前加R进行转义
-print("1234567\t1111")
+print("1234561111")
 print("1234567111111")
 print(R"1234567\t1111")
 print("1234567\\t1111")
@@ -54,13 +53,14 @@ b = '1234'
 print(a+b)
 print(a*3)
 print(a in b)
+#bool类型 True False
 #类型自动转换：显式和隐式
 #隐式
 c = 1
 d = 2
 print(c/d,type(c/d))
 #显式
-print("float转int",int(10.1))#去尾
+print("float转int",int(10.9)+1)#去尾
 print("int转float",float(10))
 print("str转int",int("1")+int("1"))
 #进制转换，结果为字符串类型
@@ -78,8 +78,8 @@ print('求幂',2**3)
 #位运算符：与&，或|，非~，异或^,左移<<,右移>>
 print(bin(0b101&0b110))
 print(bin(0b101|0b110))
-print(bin(~0b110))
+print(bin(~0b110))#补码
 print(bin(0b101^0b110))
 print('左移相当于*',2<<3)
 print('右移相当于/',4>>2)
-print('右移相当于/',-4>>2)
+print('右移相当于/',-4>>2)#高位为1则补1，高位为0则补0
