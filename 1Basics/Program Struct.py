@@ -63,6 +63,7 @@ match num:
     case 8 : print("捌")
     case 9 : print("玖")
     case 0 : print("零")
+    case _ : print("其他")
 
 print("for结构","-"*20)
 #循环结构
