@@ -70,7 +70,7 @@ print("for结构","-"*20)
 s = 0
 for i in range(1,11):
     print(i)
-    s += i
+    s =s + i
 print(s)
 
 print("for else结构","-"*20)
