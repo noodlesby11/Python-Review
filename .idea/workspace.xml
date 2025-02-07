@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/2CombinedDataTypes/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 3String&amp;RegularExpression/String.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1Basics/Program Struct.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Basics/Program Struct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2CombinedDataTypes/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/2CombinedDataTypes/Dictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,7 @@
     "Python.Combined data types.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.Program Struct.executor": "Run",
+    "Python.String.executor": "Run",
     "Python.Tuple.executor": "Run",
     "Python.exam.executor": "Run",
     "Python.main (1).executor": "Run",
@@ -74,7 +73,7 @@
       <recent name="D:\PythonCode\PythonReview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dictionary">
+  <component name="RunManager" selected="Python.String">
     <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
@@ -119,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Program Struct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ 3String&amp;RegularExpression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PythonCode\PythonReview\1Basics\Program Struct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ 3String&amp;RegularExpression/String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.String" />
         <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.Tuple" />
         <item itemvalue="Python.LIst" />
         <item itemvalue="Python.exam" />
-        <item itemvalue="Python.Program Struct" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738825323046</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <option name="closed" value="true" />
+      <created>1738829603504</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738829603504</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
