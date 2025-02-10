@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/4Exception/raise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5function/Iterators functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5function/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5function/math function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6ObjectOiented/deepcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6ObjectOiented/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6ObjectOiented/object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6ObjectOiented/polymorphisms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4Exception/exception catch.py" beforeDir="false" afterPath="$PROJECT_DIR$/4Exception/exception catch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +57,19 @@
     "Python.RegularExpression.executor": "Run",
     "Python.String.executor": "Run",
     "Python.Tuple.executor": "Run",
+    "Python.copy  (1).executor": "Run",
+    "Python.copy.executor": "Run",
+    "Python.deepcopy (1).executor": "Run",
     "Python.exam.executor": "Run",
     "Python.exception catch.executor": "Run",
     "Python.function.executor": "Run",
+    "Python.inherit.executor": "Run",
+    "Python.inheritance (1).executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.math function.executor": "Run",
     "Python.miain (1).executor": "Run",
     "Python.miain.executor": "Run",
+    "Python.object.executor": "Run",
     "Python.raise.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,8 +88,8 @@
       <recent name="D:\PythonCode\PythonReview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Iterators functions">
-    <configuration name="Iterators functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.deepcopy (1)">
+    <configuration name="deepcopy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6ObjectOiented" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5function/Iterators functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6ObjectOiented/deepcopy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exception catch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4Exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6ObjectOiented" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4Exception/exception catch.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonCode\PythonReview\6ObjectOiented\deepcopy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6ObjectOiented" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5function/function.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonCode\PythonReview\6ObjectOiented\deepcopy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6ObjectOiented" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5function/math function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6ObjectOiented/inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="raise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,11 +186,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4Exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6ObjectOiented" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4Exception/raise.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonCode\PythonReview\6ObjectOiented\inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonReview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6ObjectOiented" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6ObjectOiented/object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Iterators functions" />
-        <item itemvalue="Python.math function" />
-        <item itemvalue="Python.function" />
-        <item itemvalue="Python.raise" />
-        <item itemvalue="Python.exception catch" />
+        <item itemvalue="Python.deepcopy (1)" />
+        <item itemvalue="Python.deepcopy" />
+        <item itemvalue="Python.deepcopy" />
+        <item itemvalue="Python.inheritance (1)" />
+        <item itemvalue="Python.object" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738926737359</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <option name="closed" value="true" />
+      <created>1739001016437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739001016438</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
