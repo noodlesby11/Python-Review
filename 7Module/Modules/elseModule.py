@@ -1,0 +1,8 @@
+#numpy模块是python数据分析方向和其他库的依赖库，用于处理数组矩阵等数据
+#Pandas是基于numpy模块扩展的重要的数据分析模块，使读取excel更加方便
+#Matplotlib是基于数据可视化的模块，方便画饼图、柱状图和折线图等
+#PyEcharts是由百度开源的数据可视化库，对流行图的支持度较高
+#PyInstaller可以将python源文件打包成可执行文件，语法为：pyInstaller -F 文件名
+import numpy
+import pandas
+import matplotlib
