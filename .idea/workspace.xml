@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
+      <change afterPath="$PROJECT_DIR$/8fileIO/datestore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8fileIO/fileR&amp;W.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8fileIO/with.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ 3String&amp;RegularExpression/RegularExpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/3String&amp;RegularExpression/RegularExpression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ 3String&amp;RegularExpression/String.py" beforeDir="false" afterPath="$PROJECT_DIR$/3String&amp;RegularExpression/String.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,46 +53,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Basic Grammar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Combined data types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Iterators functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PILModule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Program Struct.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RegularExpression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.copy  (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.copy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dateModule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deepcopy (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exam.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exception catch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inherit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inheritance (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.math function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.miain (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.miain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.object.executor&quot;: &quot;Run&quot;,
-    &quot;Python.openpyxlModule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polymorphisms.executor&quot;: &quot;Run&quot;,
-    &quot;Python.raise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.requestsModule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.timeModule.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PythonCode/PythonReview/7Module/Modules&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Basic Grammar.executor": "Run",
+    "Python.Combined data types.executor": "Run",
+    "Python.Dictionary.executor": "Run",
+    "Python.Iterators functions.executor": "Run",
+    "Python.PILModule.executor": "Run",
+    "Python.Program Struct.executor": "Run",
+    "Python.RegularExpression.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.copy  (1).executor": "Run",
+    "Python.copy.executor": "Run",
+    "Python.dateModule.executor": "Run",
+    "Python.datestore.executor": "Run",
+    "Python.deepcopy (1).executor": "Run",
+    "Python.exam.executor": "Run",
+    "Python.exception catch.executor": "Run",
+    "Python.fileR&W.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.inherit.executor": "Run",
+    "Python.inheritance (1).executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.math function.executor": "Run",
+    "Python.miain (1).executor": "Run",
+    "Python.miain.executor": "Run",
+    "Python.module.executor": "Run",
+    "Python.object.executor": "Run",
+    "Python.openpyxlModule.executor": "Run",
+    "Python.polymorphisms.executor": "Run",
+    "Python.raise.executor": "Run",
+    "Python.requestsModule.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.timeModule.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/PythonCode/PythonReview/7Module/Modules",
+    "settings.editor.selected.configurable": "settings.qodana"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PythonCode\PythonReview\7Module\Modules" />
@@ -100,7 +107,7 @@
       <recent name="D:\PythonCode\PythonReview\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PILModule">
+  <component name="RunManager" selected="Python.datestore">
     <configuration name="PILModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
@@ -123,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dateModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="datestore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +139,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8fileIO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7Module/dateModule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8fileIO/datestore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fileR&amp;W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonReview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8fileIO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8fileIO/fileR&amp;W.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,42 +218,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timeModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonReview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7Module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7Module/timeModule.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.datestore" />
+        <item itemvalue="Python.fileR&amp;W" />
         <item itemvalue="Python.PILModule" />
         <item itemvalue="Python.openpyxlModule" />
         <item itemvalue="Python.requestsModule" />
-        <item itemvalue="Python.dateModule" />
-        <item itemvalue="Python.timeModule" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -349,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739630241331</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <option name="closed" value="true" />
+      <created>1739705045625</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739705045625</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
