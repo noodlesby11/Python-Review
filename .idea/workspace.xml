@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/7Module/Modules/PILModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/Modules/elseModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/Modules/openpyxlModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/Modules/python3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/Modules/requestsModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/admin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/admin/my_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/dateModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7Module/timeModule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonReview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonReview.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +85,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/PythonCode/PythonReview/7Module/Modules&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -353,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739507368959</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <option name="closed" value="true" />
+      <created>1739630241331</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739630241331</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
