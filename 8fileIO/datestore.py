@@ -1,5 +1,3 @@
-import json
-
 lst1=['AAA','BBB','CCC']
 lst2=[
      ['A','B','C'],
@@ -46,9 +44,9 @@ json.dump(obj,file):将编码结果存储到file中
 json.load(file):将解码结果储存到file中
 """
 import json
-def writefile3(lst3):
+def writefile3(lst):
     with open('store3.txt','w') as file:
-        json.dump(lst3,file,ensure_ascii=False,indent=4)#ensure_ascii设置中文，indent设置缩进
+        json.dump(lst,file,ensure_ascii=False,indent=4)#ensure_ascii设置中文，indent设置缩进
 def readfile3(src):
     with open(src,'r',encoding='utf-8') as file:
         l=json.load(file)
