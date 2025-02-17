@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/8fileIO/datestore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8fileIO/fileR&amp;W.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8fileIO/with.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ 3String&amp;RegularExpression/RegularExpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/3String&amp;RegularExpression/RegularExpression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ 3String&amp;RegularExpression/String.py" beforeDir="false" afterPath="$PROJECT_DIR$/3String&amp;RegularExpression/String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +33,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -364,7 +357,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739705045625</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <option name="closed" value="true" />
+      <created>1739715377898</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739715377898</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <option name="closed" value="true" />
+      <created>1739715409690</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739715409690</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
