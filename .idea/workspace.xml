@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6670ae29-7610-44f5-ab69-ecbe5d000ae6" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/10Network/TCPclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10Network/TCPclient2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10Network/TCPserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10Network/TCPserver2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10Network/UDPreceiver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10Network/UDPsender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9OS/OSpathModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9OS/file manipulation .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11Process/process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11Process/process2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5function/Iterators functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/5Function/Iterators functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5function/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/5Function/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5function/math function.py" beforeDir="false" afterPath="$PROJECT_DIR$/5Function/math function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/datestore.py" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/datestore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/fileR&amp;W.py" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/fileR&amp;W.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/store.csv" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/store.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/store2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/store2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/store3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/store3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8fileIO/with.py" beforeDir="false" afterPath="$PROJECT_DIR$/8FileIO/with.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +82,8 @@
     "Python.object.executor": "Run",
     "Python.openpyxlModule.executor": "Run",
     "Python.polymorphisms.executor": "Run",
+    "Python.process.executor": "Run",
+    "Python.process2.executor": "Run",
     "Python.raise.executor": "Run",
     "Python.requestsModule.executor": "Run",
     "Python.test.executor": "Run",
@@ -122,7 +108,7 @@
       <recent name="D:\PythonCode\PythonReview\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.OSpathModule">
+  <component name="RunManager" selected="Python.process2">
     <configuration name="OSpathModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
@@ -137,28 +123,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9OS/OSpathModule.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PILModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonReview" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7Module/Modules" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7Module/Modules/PILModule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileR&amp;W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonReview" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,11 +184,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8fileIO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11Process" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8fileIO/fileR&amp;W.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11Process/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonReview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11Process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11Process/process2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.process2" />
+        <item itemvalue="Python.process" />
         <item itemvalue="Python.OSpathModule" />
         <item itemvalue="Python.file manipulation " />
         <item itemvalue="Python.datestore" />
-        <item itemvalue="Python.fileR&amp;W" />
-        <item itemvalue="Python.PILModule" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739763926886</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update">
+      <option name="closed" value="true" />
+      <created>1739781316451</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739781316451</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
